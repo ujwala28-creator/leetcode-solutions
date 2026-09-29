@@ -1,4 +1,16 @@
-# leetcode-solutions
-UJWALA
-R25EJ167
- "Personal LeetCode practice log — part of B25GE0101 portfolio"
+# LeetCode Solutions
+
+- Name: UJWALA
+- Roll Number: R25EJ167
+- Description: Personal LeetCode practice log — part of  portfolio
+
+## Table of Contents
+
+- [Arrays & Strings](arrays-strings/)
+- [Basic Algorithms](basic-algorithms/)
+- [Stacks](stacks/)
+- [Linked Lists](linked-lists/)
+
+## Repository Goal
+
+This repository stores my local C-language practice solutions, tests, and notes for LeetCode problems as part of my portfolio-building activities.
